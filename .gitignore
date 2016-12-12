@@ -1,0 +1,9 @@
+##ignore this file##
+bin
+Log
+obj
+.vs
+.git
+.svn
+.bg
+.DS_Store
